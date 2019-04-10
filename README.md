@@ -1,5 +1,8 @@
 # Tiva-launchpad-LCD-display
 
+
+EK-TM4X123GXL
+
 ![lcd](https://user-images.githubusercontent.com/36634372/55843102-344c6580-5b3f-11e9-94d4-341024c3fa91.jpeg)
 
 
@@ -19,3 +22,5 @@
 | Ground | BL+ | 16 |
 
 
+
+![exm](https://user-images.githubusercontent.com/36634372/55844009-fdc51980-5b43-11e9-913e-33dddae87fcd.jpeg)
