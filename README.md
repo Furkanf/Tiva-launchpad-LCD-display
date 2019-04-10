@@ -1,6 +1,6 @@
 # Tiva-launchpad-LCD-display
 
-![LCD](https://user-images.githubusercontent.com/36634372/55842636-f9e1c900-5b3c-11e9-815f-f7b9e8f9a6d7.png)
+![lcd](https://user-images.githubusercontent.com/36634372/55843102-344c6580-5b3f-11e9-94d4-341024c3fa91.jpeg)
 
 
 PB0 ---- RS
